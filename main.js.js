@@ -1,5 +1,5 @@
 
-// Passing Through 01
+// Passing Through 01 | Sending
 // TicTac Art Centre Interactive Logo
 // Move mouse over to interact with it
 // Press space to change shapes
@@ -52,7 +52,7 @@ function draw() {
 	noStroke();
 	text(
 		`
-		Passing Through 01
+		Passing Through 01 | Sending
 		TicTac Art Centre Interactive Logo
 		Move mouse over to interact with it
 		Press space to change shapes
