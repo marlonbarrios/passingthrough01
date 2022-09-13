@@ -97,8 +97,12 @@ function draw() {
 	
 	if (mouseIsPressed ) {
 		image(img, 0, 0);
+		
+			linkTo("https://www.instagram.com/tictacartcentre/");
+		
 	}
-	
+
+
 	pop();
 }
 
