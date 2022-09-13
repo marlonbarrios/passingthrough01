@@ -1,4 +1,12 @@
 
+// Passing Through 01
+// TicTac Art Centre Interactive Logo
+// Move mouse over to interact with it
+// Press space to change shapes
+// Concept and programming by Marlon Barrios Solano
+// September 13th 2022
+
+
 const SPIN_MULTIPLIER = 45;
 const MIN_PARTICLE_COUNT = 200;
 const MAX_PARTICLE_COUNT = 700;
@@ -95,11 +103,15 @@ function draw() {
 	
 	rectMode(CORNER);
 	
-	if (mouseIsPressed ) {
+	if (mouseIsPressed) {
+	
 		image(img, 0, 0);
 	
 		
-	}
+		}
+	
+		
+	
 
 
 	pop();
